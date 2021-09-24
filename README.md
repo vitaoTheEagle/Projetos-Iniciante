@@ -53,3 +53,58 @@ Além do código executar somente quando queremos, também vamos ver formas dife
 - Passar informações que as funções precisam para funcionar, através dos *parâmetros*;
 - Utilizar o `.endsWith()` para verificar se um texto termina com determinados caracteres;
 - Ver mais um exemplo de reatribuição de variável para "limpar" o texto do campo com `""`.
+
+
+
+### Aula 6 - Conteúdo detalhado desta aula:
+
+##### Nesta sexta aula da **Imersão Dev**, vamos criar uma tabela de classificação e aprender o que são objetos no Javascript!
+
+- Remover o código estático do HTML;
+- Criar um objeto no Javascript para cada jogador;
+- Criar uma função que receba um objeto como parâmetro para calcular os pontos;
+- Exibir o objeto na página HTML;
+- Criar uma função para adicionar vitória, outra para adicionar empate e uma última para adicionar derrota;
+- Recalcular os pontos quando vitória ou empate for adicionado.
+
+### Aula 7 - Conteúdo detalhado desta aula:
+
+##### Nesta sétima aula da **Imersão Dev**, vamos criar um jogo de cartas chamado Trunfo! Neste programa, focamos no desenvolvimento da lógica do jogo do zero, desde a criação das cartas, sorteio das cartas, interações com usuário, e definindo um vencedor.
+
+- Criar as cartas do jogo e definir seus atributos;
+- Desenvolver uma função para sortear uma carta para o jogador e outra para a máquina;
+- Exibindo os atributos das cartas na tela para o jogador;
+- Obter o atribudo escolhido pelo jogador e comparar com a carta da máquina;
+- Comparar o atributo de ambas as cartas e definir um vencedor.
+
+### Aula 8 - Conteúdo detalhado desta aula:
+
+##### Nesta oitava aula da **Imersão Dev**, vamos evoluir ainda mais nosso Trunfo, focando em exibir as cartas na tela! O código da aula para você acompanhar está aqui:
+
+##### Neste programa, vamos descobrir que podemos alterar não só o conteúdo do HTML com Javascript. Vamos aprender como manipular o CSS e exibir nossas cartas no tela.
+
+- Adicionando o campo imagem nos objetos com o caminho da imagem;
+- Criar uma função que exibe a carta do jogador após o sorteio das cartas;
+- Adicionar a moldura da carta;
+- Escrever o resultado na tela após o duelo das cartas informando se o jogador venceu ou perdeu;
+- Criar uma função que exibe a carta da máquina;
+- Exibir os atributos e pontos da carta da máquina.
+
+### Aula 9 - Conteúdo detalhado desta aula:
+
+##### Nesta nona aula da **Imersão Dev**, desscobriremos como usar o Figma para um layout em código HTML e CSS para o nosso portfólio!
+
+- Aprendemos a mexer no Figma e transformar o design em código;
+- Entendemos melhor como funciona HTML e CSS;
+- Estruturamos o nosso portfólio com HTML, aprendendo todas as tags necessárias pra isso;
+- Estilizamos o nosso portfólio com CSS, conhecendo os seletores, propriedades e valores necessários para isso.
+
+### Aula 10 - Conteúdo detalhado desta aula:
+
+##### Nesta décima e última aula da Imersão Dev, você vai evoluir seu portfólio com temas claro e escuro e ainda colocar no ar para que todas as pessoas possam acessar!
+
+- Utilizaremos o Figma para transformar o design em código;
+- Estruturamos o nosso portfólio com HTML, aprendendo todas as tags necessárias pra isso;
+- Estilizamos o nosso portfólio com CSS, conhecendo os seletores, propriedades e valores necessários para isso;
+- Criamos o tema claro e escuro para o nosso portfólio;
+- Fazemos a lógica em Javascript para alterar entre os temas.
